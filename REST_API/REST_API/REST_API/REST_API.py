@@ -24,9 +24,14 @@ users = [
         "occupation": "Web Developer"
     },
     {
-        "name": "Asif",
+        "name": "Jack",
         "age": 35,
         "occupation": "IT Expert"
+    },
+    {
+        "name": "Tom",
+        "age": 40,
+        "occupation": "Data Scientist"
     }
 
 ]
